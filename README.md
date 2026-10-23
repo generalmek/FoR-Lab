@@ -13,14 +13,13 @@ Can an agent detect that its decision rests on insufficient grounds, choose a us
 
 FoR-Lab translates selected mechanisms from **Foundations of Reason** into executable symbolic prototypes. The laboratory contains code, tests, protocols, traces, earlier versions and negative cases. It makes the proposed mechanisms inspectable and exposes where they fail.
 
-### Author and contributors
+### Authorship and use of AI
 
-- **Mihail Tkalic** — author of Foundations of Reason and initiator of the research project.
-- **Astra** — AI assistant used for implementation, local execution, checking and recording results.
-- **Sol** — AI assistant used for discussion, criticism, protocol refinement and review of supplied code and reports.
+**Mihail Tkalic** — author of Foundations of Reason and initiator of the research project.
 
-Astra and Sol are conversational names for AI assistants, not independent researchers or institutions. Sol did not independently reproduce the experiments. The verdict below is an **internal synthesis of the recorded laboratory results**, not an external peer-review decision.
+The laboratory was developed **with AI assistance** for programming, local execution, analysis of results, protocol refinement and preparation of documentation. AI-assisted review is not independent scientific validation.
 
+The verdict below is an **internal synthesis of the recorded laboratory results**, not an external peer-review decision. No independent replication is claimed.
 ### Verdict of this stage
 
 > **Selected mechanisms have executable implementations and work in the tested, restricted environments. Some causal roles are supported by disabling and restoring components. Scientific superiority of FoR over the comparison algorithms is not established; the full architecture of Reason is not validated.**
@@ -96,14 +95,13 @@ Publication preparation checked the file inventory, common credential patterns a
 
 FoR-Lab переводит отдельные механизмы **«Основ Разума»** в исполняемые символические прототипы. Здесь сохранены код, тесты, протоколы, трассы, предыдущие версии и отрицательные случаи. Это позволяет проверять предложенные механизмы и видеть, где они перестают работать.
 
-### Автор и участники
+### Авторство и применение ИИ
 
-- **Михаил Ткалич** — автор «Основ Разума» и инициатор исследовательского проекта.
-- **Астра** — ИИ-ассистент, использованный для реализации, локальных запусков, проверки и фиксации результатов.
-- **Сол** — ИИ-ассистент, использованный для обсуждения, критики, уточнения протоколов и рассмотрения переданных исходников и отчётов.
+**Михаил Ткалич** — автор «Основ Разума» и инициатор исследовательского проекта.
 
-Астра и Сол — имена ИИ-ассистентов в общении, а не независимые исследователи или организации. Сол не воспроизводил эксперименты независимо. Приведённый ниже вердикт — **внутренний итог по сохранённым результатам лаборатории**, а не решение внешней научной экспертизы.
+Лаборатория разработана **с применением ИИ** для программирования, локальных запусков, анализа результатов, уточнения протоколов и подготовки документации. Проверка с помощью ИИ не является независимой научной экспертизой.
 
+Приведённый ниже вердикт — **внутренний итог по сохранённым результатам лаборатории**, а не решение внешней научной экспертизы. Независимое воспроизведение не заявляется.
 ### Вердикт этого этапа
 
 > **Отдельные механизмы реализованы и работают в проверенных ограниченных средах. Для некоторых связей показана причинная роль через отключение и восстановление компонентов. Научное преимущество FoR над алгоритмами сравнения не установлено; полная архитектура Разума не подтверждена.**
@@ -168,3 +166,4 @@ NumPy нужен раннему численному прототипу; поз�
 Исходная лаборатория не изменена. Исключены виртуальные окружения, кэши и необработанные выгрузки чатов/браузера; личные имена каталогов пользователя и адреса электронной почты обезличены. `RELEASE_MANIFEST.json` содержит исходные и публикационные хэши скопированных исследовательских файлов и список исключений. Хэши в исторических журналах могут относиться к исходным необезличенным версиям. `SHA256SUMS.txt` позволяет проверить скачанный из репозитория архив.
 
 При подготовке проверены состав файлов, типовые признаки секретов и синтаксис Python. Новых экспериментов ради публикации или этой правки README не проводилось. Эти проверки не являются независимым воспроизведением или исчерпывающим аудитом безопасности.
+
