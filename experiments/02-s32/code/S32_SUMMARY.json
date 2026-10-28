@@ -1,0 +1,54 @@
+{
+  "b4": {
+    "pairs": 12,
+    "T32": {
+      "acts": 10,
+      "measures": 38,
+      "fails": 0
+    },
+    "B2": {
+      "acts": 10,
+      "measures": 38,
+      "fails": 0
+    }
+  },
+  "b12": {
+    "pairs": 12,
+    "T32": {
+      "acts": 12,
+      "measures": 132,
+      "fails": 0
+    },
+    "B2": {
+      "acts": 12,
+      "measures": 132,
+      "fails": 0
+    }
+  },
+  "b50": {
+    "pairs": 12,
+    "T32": {
+      "acts": 12,
+      "measures": 348,
+      "fails": 0
+    },
+    "B2": {
+      "acts": 12,
+      "measures": 348,
+      "fails": 0
+    }
+  },
+  "events": {
+    "pairs": 12,
+    "T32": {
+      "acts": 30,
+      "measures": 570,
+      "fails": 0
+    },
+    "B2": {
+      "acts": 30,
+      "measures": 570,
+      "fails": 0
+    }
+  }
+}

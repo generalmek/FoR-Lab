@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the exact GitHub release or archived DOI when using FoR-Lab."
+title: "FoR-Lab: Foundations of Reason — Experiment 2 (S32)"
+type: software
+authors:
+  - family-names: Tkalic
+    given-names: Mihail
+repository-code: "https://github.com/generalmek/FoR-Lab"
+version: "experiment-2-s32"
+date-released: 2026-10-28

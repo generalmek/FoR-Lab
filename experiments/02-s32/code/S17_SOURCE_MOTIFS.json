@@ -1,0 +1,50 @@
+{
+  "provenance": "S16 executed/composed and receipted trials, rebind roles in S17",
+  "motifs": {
+    "stable": {
+      "source_operator_sequence": [
+        "FRESH_REPEAT",
+        "ISOLATE_PERSISTENT_RESIDUAL",
+        "PROPOSE_INDEPENDENT_CONTROL",
+        "REQUEST_LOCAL_VALIDATION"
+      ],
+      "transfer_operator_sequence": [
+        "REPEAT_SUSPECT_SOURCE",
+        "QUARANTINE_PERSISTENT_SOURCE_RESIDUAL",
+        "SELECT_INDEPENDENT_MEASUREMENT_SOURCE",
+        "VALIDATE_INDEPENDENT_SOURCE_TWICE"
+      ],
+      "source_evidence_ids": [
+        "04c5f436-df32-4631-a6da-b9e9fc9c7c53:4:4:3",
+        "04c5f436-df32-4631-a6da-b9e9fc9c7c53:4:4:4"
+      ],
+      "source_outcome": "validated_by_action_and_receipt",
+      "source_receipt_count": 4,
+      "source_task_id": 4,
+      "meaning_mapping": "control-specific residual -> source-specific measurement residual"
+    },
+    "unstable": {
+      "source_operator_sequence": [
+        "FRESH_REPEAT",
+        "ISOLATE_AMBIGUOUS_CONTROL",
+        "PROPOSE_INDEPENDENT_CONTROL",
+        "REQUEST_LOCAL_VALIDATION"
+      ],
+      "transfer_operator_sequence": [
+        "REPEAT_SUSPECT_SOURCE",
+        "QUARANTINE_UNSTABLE_SOURCE",
+        "SELECT_INDEPENDENT_MEASUREMENT_SOURCE",
+        "VALIDATE_INDEPENDENT_SOURCE_TWICE"
+      ],
+      "source_evidence_ids": [
+        "4993d9a3-cc71-4df8-9415-221d5d5ad56d:4:4:3",
+        "4993d9a3-cc71-4df8-9415-221d5d5ad56d:4:4:4"
+      ],
+      "source_outcome": "validated_by_action_and_receipt",
+      "source_receipt_count": 4,
+      "source_task_id": 4,
+      "meaning_mapping": "control-specific residual -> source-specific measurement residual"
+    }
+  },
+  "fingerprint": "6016588cd286aafd4fd4fca2a0178d8092498ab852b975ede143e02d223a09c8"
+}
