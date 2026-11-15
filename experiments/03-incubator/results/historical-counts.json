@@ -1,0 +1,39 @@
+{
+  "version": 153,
+  "integrity": [
+    [
+      "ok"
+    ]
+  ],
+  "dialogue": 637,
+  "direct_youtube_records": 0,
+  "native_relations": 7,
+  "review_turns": 0,
+  "ocr_candidates_count": 3,
+  "historical_journal_aggregates": [
+    {
+      "records": 78,
+      "statuses": {
+        "PAUSED_AFTER_ERRORS": 1,
+        "TURN": 46,
+        "WAITING": 31
+      },
+      "turn_bases": {
+        "Глаз · границы свидетельства": 17,
+        "Диалог · сообщение Квин": 26,
+        "Ядро · уточнение нераспознанного запроса, свидетельство ожидается": 3
+      }
+    },
+    {
+      "records": 4,
+      "statuses": {
+        "PAUSED_AFTER_ERRORS": 1,
+        "TURN": 1,
+        "WAITING": 2
+      },
+      "turn_bases": {
+        "Глаз · границы свидетельства": 1
+      }
+    }
+  ]
+}

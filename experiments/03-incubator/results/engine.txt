@@ -1,0 +1,8 @@
+stable 5 DONE
+recovery 11 DONE
+resource_stop 1 STOPPED
+exploration 10 DONE
+quadratic 5 DONE
+outside_grammar 3 STOPPED
+constructive 5 DONE
+horizon 7 DONE
